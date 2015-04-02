@@ -1,0 +1,2 @@
+0 * * * * cd /home/dave/ && git push origin master
+1 * * * * git --git-dir=/home/dave/sysgit --work-tree=/ push origin master
