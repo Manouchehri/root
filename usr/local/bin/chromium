@@ -1,1 +1,1 @@
-chromium --disable-new-avatar-menu --enable-strict-mixed-content-checking
+/bin/chromium --disable-new-avatar-menu --enable-strict-mixed-content-checking
